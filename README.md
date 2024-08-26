@@ -41,5 +41,5 @@
 
 ## Github stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=qsoftin&count_private=true&custom_title=Petr+Šimík's+GitHub+Stats&show_icons=true&theme=codeSTACKr" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=petr-simik&count_private=true&custom_title=Petr+Šimík's+GitHub+Stats&show_icons=true&theme=codeSTACKr" />
 
